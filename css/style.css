@@ -1,0 +1,36 @@
+body{
+    font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.bg-green{
+    background-color: #28A745;
+}
+
+.navegacion img{
+    width: 86px;
+    height: 25px;
+}
+.formulario{
+    background-color: red;
+}
+span {
+    color:#28A745;
+    font-weight: 800;
+    font-size: 1.4rem;
+    padding-left: 0.4rem;
+}
+.form{
+    background-color: #28A745;
+    color: white;
+}
+.form h3{
+    font-size: 1.3rem;
+}
+
+.footer img{
+width: 84px;
+height: 24px;
+}
+.footer-text{
+    color:#707070
+}
